@@ -1,2 +1,7 @@
 login
+<<<<<<< HEAD
 password
+=======
+password
+verificação
+>>>>>>> sobrenome
