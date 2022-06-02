@@ -1,3 +1,8 @@
 à vista/cartão
 pix
+<<<<<<< HEAD
 versão 3.0
+=======
+versão 3.0
+versão 4.0
+>>>>>>> sobrenome
